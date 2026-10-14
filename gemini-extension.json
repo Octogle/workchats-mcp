@@ -1,0 +1,12 @@
+{
+  "name": "workchats",
+  "version": "0.1.0",
+  "description": "Read and act on your Workchats messages, tasks, meetings and files. Every message is a draft until you approve it.",
+  "mcpServers": {
+    "workchats": {
+      "httpUrl": "https://mcp.workchats.com/mcp",
+      "timeout": 60000
+    }
+  },
+  "contextFileName": "WORKCHATS.md"
+}

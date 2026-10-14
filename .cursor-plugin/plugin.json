@@ -1,0 +1,11 @@
+{
+  "name": "workchats",
+  "version": "0.1.0",
+  "description": "Read and act on your Workchats messages, tasks, meetings and files. Every message is a draft until you approve it.",
+  "author": { "name": "Octogle", "email": "support@workchats.com" },
+  "homepage": "https://developers.workchats.com/mcp/overview",
+  "repository": "https://github.com/Octogle/workchats-mcp",
+  "license": "MIT",
+  "keywords": ["workchats", "chat", "messaging", "tasks", "meetings", "team-communication"],
+  "logo": "assets/logo.png"
+}
